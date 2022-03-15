@@ -1,4 +1,4 @@
-## Play tic tac toe game after cloning it here !
+## play Tic Tac Toe after cloning it on your machine !
 
 `cd Tic-Tac-Toe-Game`
 
