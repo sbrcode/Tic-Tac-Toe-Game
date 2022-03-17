@@ -2,4 +2,6 @@
 
 `cd Tic-Tac-Toe-Game`
 
+`yarn`
+
 `yarn start`
